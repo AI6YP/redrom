@@ -8,6 +8,6 @@ full screen
   * Time
   * Constellation
   * Waterfall
-  * Smith
+  * Smith https://github.com/drom/smith-chart
   * Measurements
   * Table
